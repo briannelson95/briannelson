@@ -9,8 +9,8 @@ var brianNelson = {
   code: ["JavaScript", "HTML", "CSS"],
   tools: ["React", "Next.js", "Sanity.io", "tailwind"],
   links: {
-    videoPortfolio: "https://briannelsonfilms.com,
-    favPersonalProject: "https://apexrandomzier.com",
+    videoPortfolio: "https://briannelsonfilms.com",
+    videoPortfolio: "https://apexrandomzier.com",
     youtube: "https://youtube.com/briannelsonfilms",
     instagram: "https://instagram.com/briannelson__",
     twitter: "https://twitter.com/brianelson_",
