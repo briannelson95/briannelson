@@ -4,7 +4,6 @@
 - I'm learning and working on personal projects in React, Next, and Sanity
 - Creator of: [apexrandomizer.com](https://apexrandomizer.com)
 
-### Find me online 
 
 ```js
 var brianNelson = {
