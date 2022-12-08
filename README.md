@@ -3,6 +3,8 @@
 - I'm currently working as a project manager
 - I'm learning and working on personal projects in React, Next, and Sanity
 - Creator of: <a href="https://apexrandomizer.com" target="_blank">apexrandomizer.com</a>
+- Open to Work
+- Freelance Web Developer
 
 ## Technical Skills
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
