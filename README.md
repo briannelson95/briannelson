@@ -1,7 +1,6 @@
 # Hello 👋
 
-- I'm currently working as a project manager
-- I'm learning and working on personal projects in React, Next, and Sanity
+- I'm a Next.JS and React Developer
 - Creator of: <a href="https://apexrandomizer.com" target="_blank">apexrandomizer.com</a>
 - Open to Work
 - Freelance Web Developer
